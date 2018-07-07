@@ -1,0 +1,55 @@
+AisleIntent what aisle is the {Item} in {Store}
+AisleIntent what aisle is {Item} in {Store}
+AisleIntent where is the {Item} in {Store}
+AisleIntent where is {Item} in {Store}
+AisleIntent can you tell me where the {Item} is in {Store}
+AisleIntent can you tell me where {Item} is in {Store}
+AisleIntent can you tell me where to find the {Item} in {Store}
+AisleIntent can you tell me where to find {Item} in {Store}
+AisleIntent where the {Item} is in {Store}
+AisleIntent where {Item} is in {Store}
+AisleIntent where can I find the {Item} in {Store}
+AisleIntent where can I find {Item} in {Store}
+AisleIntent where to find the {Item} in {Store}
+AisleIntent where to find {Item} in {Store}
+AisleIntent what about the {Item} in {Store}
+AisleIntent what about {Item} in {Store}
+AisleIntent {Item} in {Store}
+AisleIntent what aisle the {Item} is in {Store}
+AisleIntent what aisle {Item} is in {Store}
+AisleIntent what aisle is the {Item} at {Store}
+AisleIntent what aisle is {Item} at {Store}
+AisleIntent where is the {Item} at {Store}
+AisleIntent where is {Item} at {Store}
+AisleIntent can you tell me where the {Item} is at {Store}
+AisleIntent can you tell me where {Item} is at {Store}
+AisleIntent can you tell me where to find the {Item} at {Store}
+AisleIntent can you tell me where to find {Item} at {Store}
+AisleIntent where the {Item} is at {Store}
+AisleIntent where {Item} is at {Store}
+AisleIntent where can I find the {Item} at {Store}
+AisleIntent where can I find {Item} at {Store}
+AisleIntent where to find the {Item} at {Store}
+AisleIntent where to find {Item} at {Store}
+AisleIntent what about the {Item} at {Store}
+AisleIntent what about {Item} at {Store}
+AisleIntent {Item} at {Store}
+AisleIntent what aisle the {Item} is at {Store}
+AisleIntent what aisle {Item} is at {Store}
+
+PriceIntent how much is the {Item} in {Store}
+PriceIntent how much is {Item} in {Store}
+PriceIntent how much does the {Item} cost in {Store}
+PriceIntent how much does {Item} cost
+PriceIntent what does the {Item} cost
+PriceIntent what does {Item} cost
+
+CouponIntent do I have a coupon for {Item} in {Store}
+CouponIntent do I have a coupon for {Item} at {Store}
+CouponIntent do I have a {Store} coupon for {Item}
+CouponIntent do I have a {Item} coupon for {Store}
+
+SaleIntent is {Item} on sale in {Store}
+SaleIntent is {Item} on sale at {Store}
+SaleIntent is the {Item} on sale in {Store}
+SaleIntent is the {Item} on sale at {Store}

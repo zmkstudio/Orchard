@@ -1,0 +1,56 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "Item",
+          "type": "LIST_OF_ITEMS"
+        },
+        {
+          "name": "Store",
+          "type": "LIST_OF_STORES"
+        }
+      ],
+      "intent": "AisleIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "Item",
+          "type": "LIST_OF_ITEMS"
+        },
+        {
+          "name": "Store",
+          "type": "LIST_OF_STORES"
+        }
+      ],
+      "intent": "PriceIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "Item",
+          "type": "LIST_OF_ITEMS"
+        },
+        {
+          "name": "Store",
+          "type": "LIST_OF_STORES"
+        }
+      ],
+      "intent": "CouponIntent"
+    },
+    {
+      	"intent": "SaleIntent",
+      	"slots": [
+          {
+            "name": "Item",
+            "type": "LIST_OF_ITEMS"
+          },
+          {
+            "name": "Store",
+            "type": "LIST_OF_STORES"
+          }
+        ]
+    }
+  ]
+}
